@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Song Title,
 creator,Songwriter,
+contributor,Lyricist
 date,Year of Recording,
 description,Description,
 subject,Subjects,true
