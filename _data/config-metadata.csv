@@ -11,4 +11,5 @@ longitude,Longitude
 ATM Accession Number,Source
 identifier,Source Identifier,,
 type,Song Length,
+publication,Date of Publication
 format,Format,
